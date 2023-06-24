@@ -1,19 +1,22 @@
 .booklist, .book-details{
     padding: 3rem 0;
-    background-color: #f8f9fa;
+    background-color: #FDE2F3;
+    
 }
 .booklist-content{
     gap: 3rem;
+   
 }
 .book-item{
     padding: 3rem 2rem;
     border-radius: 4px;
-    background-color: var(--white-color);
-    box-shadow: rgba(0, 0, 0, 0.05) 0px 5px 15px 0px;
+      background-color: #FDF4F5;
+    box-shadow: rgba(0, 0, 0, 0.05) 5px 5px 15px 5px;
     transition: var(--transition);
+   
 }
 .book-item:hover{
-    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 15px 5px;
 }
 .book-item-img img{
     max-width: 180px;

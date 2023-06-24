@@ -5,6 +5,7 @@
     margin-left: 20px;
     margin-bottom: 2.6rem;
     transition: var(--transition);
+    color: var(--black-color);
 }
 .back-btn:hover{
     color: var(--purple-color);
@@ -45,7 +46,7 @@
 }
 .book-details-info::-webkit-scrollbar-thumb{
     background-color: var(--purple-color);
-    outline: -1px solid slategray;
+    outline: -1px solid #7F78D2;
     border-radius: 8px;
 }
 
