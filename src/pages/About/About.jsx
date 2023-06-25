@@ -15,13 +15,12 @@ const About = () => {
             <img src={aboutImg} alt="" />
           </div>
           <div className="about-text">
-            <h2 className="about-title fs-26 ls-1">Generasi E-BOOK</h2>
+            <h2 className="about-title fs-26 ls-1">Apa itu GoBook?</h2>
             <p className="fs-17">
-              Selamat datang di era revolusi literasi: generasi E-book. Dalam dunia yang semakin terhubung secara digital, E-book telah mengubah cara kita membaca dan mengakses informasi. Dengan hanya perangkat elektronik di tangan kita,
-              perpustakaan pribadi penuh dengan buku-buku favorit kita dapat dibawa ke mana saja. Dari klasik hingga terbitan terbaru, semua itu hanya dalam genggaman. Tidak hanya memberikan kenyamanan membaca di mana saja dan kapan saja,
-              generasi E-bopok juga membuka pintu bagi interaktivitas, dengan fitur-fitur seperti pencarian teks dan anotasi. Ini adalah era di mana imajinasi bertemu dengan teknologi, dan penulis serta karya-karya baru diberi kesempatan
-              untuk bersinar. <br></br> Generasi E-book adalah keajaiban digital yang mengubah cara kita melibatkan diri dalam dunia kata-kata, menawarkan kebebasan, kemudahan, dan petualangan tak terbatas di setiap halaman. Selamat datang di era
-              E-book, di mana cerita tak berujung menanti untuk ditemukan.
+              GoBOOK adalah sebuah aplikasi pencarian buku yang inovatif dan praktis untuk memudahkan Anda menemukan dan menjelajahi berbagai judul buku favorit. Dengan antarmuka yang menarik dan mudah digunakan, aplikasi ini memberikan
+              pengalaman pencarian yang lancar dan efisien. GoBOOK dilengkapi dengan fitur-fitur canggih yang memungkinkan Anda menemukan buku-buku dari koleksi yang luas dengan hasil pencarian yang akurat dan relevan. Aplikasi ini juga
+              memberikan rekomendasi buku yang dipersonalisasi berdasarkan preferensi dan minat Anda. Dengan GoBOOK, Anda dapat dengan mudah menemukan bestseller, klasik, atau bahkan buku-buku yang tersembunyi. Aplikasi GoBOOK merupakan
+              teman setia bagi para pembaca dan penggemar buku, membantu Anda menjelajahi dunia literatur dengan mudah dan menyenangkan.
             </p>
           </div>
         </div>
